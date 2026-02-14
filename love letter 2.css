@@ -260,7 +260,7 @@
   -webkit-animation-delay: 0.7s;
   animation-delay: 0.7s;
 }
-@media (max-width: 600px) {
+@media (max-width: 400px) {
   #envelope {
     width: 95%;
     height: 400px;
